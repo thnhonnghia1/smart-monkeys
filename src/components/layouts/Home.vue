@@ -12,10 +12,8 @@
             <div class="right_about" data-wow-delay="1000ms">
                 <div class="name-about"> Lớp Học thông minh </div>
                 <div class="desc-about">
-                    <p>Nơi các em mạnh dạn viết lên những ước mơ và suy nghĩ của mình. </p>
-                    <p>Nơi giáo viên lắng nghe chia sẻ, mong muốn của học sinh, đồng thời là nơi gắn kết yêu thương
-                        giữa học sinh với học sinh, giữa thầy cô với học sinh, giữa gia đình và nhà trường.Góp phần
-                        hướng tới xây dựng một trường học thân thiện - tích cực.</p>
+                    <p>Chào mừng các em đến với lớp học thông minh nơi các em có thể tìm kiếm kiến thức nội dung học tập một cách dễ dàng nhanh chóng và thuận tiện nhất. Đồng thời các em cũng có thể tự đánh giá bản thân và học hỏi từ bạn bè. </p>
+                    <p>Từ đó Thầy - Cô mong muốn các em phát huy được sự tham gia tích cực vào quá trình học tập, kích thích tư duy và sự sáng tạo các em.</p>
                 </div>
             </div>
             <div class="left_about" data-wow-delay="1000ms">
