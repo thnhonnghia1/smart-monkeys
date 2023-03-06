@@ -109,22 +109,22 @@ export default {
             subject: [
                 {
                     name: 'Tiếng Việt',
-                    path: '/tieng-viet',
+                    path: '/smart-monkeys/tieng-viet',
                     image: subjectIndex
                 },
                 {
                     name: 'Toán Học',
-                    path: '/toan-hoc',
+                    path: '/smart-monkeys/toan-hoc',
                     image: subjectIndex2
                 },
                 {
                     name: 'Tiếng Anh',
-                    path: '/tieng-anh',
+                    path: '/smart-monkeys/tieng-anh',
                     image: subjectIndex4
                 },
                 {
                     name: 'Tin học',
-                    path: '/tin-hoc',
+                    path: '/smart-monkeys/tin-hoc',
                     image: subjectIndex3
                 }
             ],

@@ -32,7 +32,7 @@ export default {
                 {
                     name: "Ngày em vào đội",
                     linkmp4: clipVn1,
-                    linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
+                    linktest: "https://forms.gle/S4be9bWQCkuvnV9h9",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {

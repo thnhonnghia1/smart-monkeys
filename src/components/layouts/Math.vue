@@ -32,7 +32,7 @@ export default {
                 {
                     name: "Khối hộp chữ nhật khối lập phương",
                     linkmp4: clipToan1,
-                    linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
+                    linktest: "https://forms.gle/gucLCGA8Vpi1SkwH6",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
