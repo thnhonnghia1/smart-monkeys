@@ -17,13 +17,6 @@
 </template>
 
 <script>
-import clipToan1 from '../../../video/Toan/khoihopchunhatkhoilapphuong.mp4'
-import clipToan2 from '../../../video/Toan/LamTronSo.mp4'
-import clipToan3 from '../../../video/Toan/PhepCongCacSoTrongPhamVi100.mp4'
-import clipToan4 from '../../../video/Toan/PhepTruCacSoTrongPhamVi100.mp4'
-import clipToan5 from '../../../video/Toan/mililit.mp4'
-import clipToan6 from '../../../video/Toan/Nhanso.mp4'
-import clipToan7 from '../../../video/Toan/ChiaSo.mp4'
 
 export default {
     data() {
@@ -31,43 +24,43 @@ export default {
             videoToan : [
                 {
                     name: "Khối hộp chữ nhật khối lập phương",
-                    linkmp4: clipToan1,
+                    linkmp4: `https://thnhonnghia1.hn.ss.bfcplatform.vn/toan/khoihopchunhatkhoilapphuong.mp4`,
                     linktest: "https://forms.gle/gucLCGA8Vpi1SkwH6",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Làm tròn số",
-                    linkmp4: clipToan2,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/toan/LamTronSo.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Phép cộng các số trong phạm vi 10000 ",
-                    linkmp4: clipToan3,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/toan/PhepCongCacSoTrongPhamVi100.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Phép trừ các số trong phạm vi 10000 ",
-                    linkmp4: clipToan4,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/toan/PhepTruCacSoTrongPhamVi100.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: " Mi li lít",
-                    linkmp4: clipToan5,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/toan/mililit.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Nhân số có bốn chữ số với số có một chữ số ",
-                    linkmp4: clipToan6,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/toan/Nhanso.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Chia số có bốn chữ số cho số có một chữ số",
-                    linkmp4: clipToan7,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/toan/ChiaSo.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 }

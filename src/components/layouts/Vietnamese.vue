@@ -17,13 +17,6 @@
 </template>
 
 <script>
-import clipVn1 from '../../../video/TiengViet/NgayEmVaoDoi_TiengViet.mp4'
-import clipVn2 from '../../../video/TiengViet/CuonSachEmYeu.mp4'
-import clipVn3 from '../../../video/TiengViet/OngNgoai.mp4'
-import clipVn4 from '../../../video/TiengViet/DocDaolehoidentrungthu.mp4'
-import clipVn5 from '../../../video/TiengViet/Nghethuatbattrang.mp4'
-import clipVn6 from '../../../video/TiengViet/TiengDan.mp4'
-import clipVn7 from '../../../video/TiengViet/ChoiBongVoiBo.mp4'
 
 export default {
     data() {
@@ -31,43 +24,43 @@ export default {
             videoTiengViet : [
                 {
                     name: "Ngày em vào đội",
-                    linkmp4: clipVn1,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/tieng-viet/NgayEmVaoDoi_TiengViet.mp4",
                     linktest: "https://forms.gle/S4be9bWQCkuvnV9h9",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Cuốn sách em yêu",
-                    linkmp4: clipVn2,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/tieng-viet/CuonSachEmYeu.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Ông ngoại",
-                    linkmp4: clipVn3,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/tieng-viet/OngNgoai.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Độc đáo lễ hội đèn Trung thu",
-                    linkmp4: clipVn4,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/tieng-viet/DocDaolehoidentrungthu.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Nghệ nhân Bát Tràng",
-                    linkmp4: clipVn5,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/tieng-viet/Nghethuatbattrang.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tiếng đàn",
-                    linkmp4: clipVn6,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/tieng-viet/TiengDan.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Chơi bóng với bố",
-                    linkmp4: clipVn7,
+                    linkmp4: "https://thnhonnghia1.hn.ss.bfcplatform.vn/tieng-viet/ChoiBongVoiBo.mp4",
                     linktest: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 }

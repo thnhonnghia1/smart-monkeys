@@ -85,7 +85,6 @@
 
 <script>
 import ImgAbout from '../../../images/3aa00a951264da3a837526.jpg';
-import clipslider from '../../../images/clipslider.mp4';
 import albumIndex from '../../../images/f3bd83c7a23e6a60332f63.jpg';
 import albumIndex2 from '../../../images/0f1dcb05eafc22a27bed66.jpg';
 import albumIndex3 from '../../../images/959c0e892f70e72ebe6164.jpg';
@@ -190,7 +189,7 @@ export default {
                     vimeoLink: "https://img.youtube.com/vi/ovb0cJO7eM4/0.jpg",
                 }
             ],
-            clipslider, ImgAbout
+            clipslider: `https://thnhonnghia1.hn.ss.bfcplatform.vn/clipslider.mp4`, ImgAbout
         }
     },
 };
