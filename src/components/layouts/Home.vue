@@ -36,6 +36,21 @@
             </div>
         </div>
     </div>
+    <div class="wrap-Vietnamses">
+        <div class="wap_1200 w-clear">
+            <div class="tdtc">Rèn đọc</div>
+            <Splide class="run-readVn" :options="{ rewind: true, perPage: 2, arrows: false }" aria-label="Rèn đọc">
+                <SplideSlide class="readVn" v-for="(readVn, index) in readVn" :key="index">
+                    <div class="box-readVn"> 
+                        <video class="imagevideoVn" data-video-slider="" controls playsinline webkit-playsinline preload="metadata">
+                        <source type="video/mp4" :src="readVn.linkread">
+                        </video>
+                        <h3 class="name-readVn">{{ readVn.name }}</h3>
+                    </div>
+                </SplideSlide>
+            </Splide>
+        </div>
+    </div>
     <div class="box_hoatdong" data-wow-delay="1000ms">
         <div class="wap_1200 w-clear">
             <div class="tdtc">Khoảnh Khắc Yêu thương</div>
@@ -52,7 +67,7 @@
     <div class="wrap-team">
         <div class="wap_1200 w-clear">
             <div class="tdtc">Đội ngũ giáo viên</div>
-            <Splide class="run-team" :options="{ rewind: true, perPage: 4, arrows: false }" aria-label="Đội ngũ giáo viên">
+            <Splide class="run-team" :options="{ rewind: true, perPage: 3, arrows: false }" aria-label="Đội ngũ giáo viên">
                 <SplideSlide class="team" v-for="(team, index) in team" :key="index">
                     <p class="pic-team"><img :src="team.image" alt=""></p>
                     <h3 class="name-team">{{ team.name }}</h3>
@@ -157,10 +172,6 @@ export default {
                 {
                     name: 'Cô giáo Lộc',
                     image: teamIndex3
-                },
-                {
-                    name: 'Cô giáo nương 4',
-                    image: teamIndex
                 }
             ],
             video: [
@@ -187,6 +198,36 @@ export default {
                 {
                     youtubeLink: "https://www.youtube.com/watch?v=ovb0cJO7eM4",
                     vimeoLink: "https://img.youtube.com/vi/ovb0cJO7eM4/0.jpg",
+                }
+            ],
+            readVn: [
+                {
+                    name: 'Ngày em vào đội',
+                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/NgayEmVaoDoi.mp4'
+                },
+                {
+                    name: 'Cuốn sách em yêu',
+                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/CuonSachEmYeu.mp4'
+                },
+                {
+                    name: 'Nghệ nhan bát tràng',
+                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/NgheNhanBatTrang.mp4'
+                },
+                {
+                    name: 'Ông Ngoại',
+                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/OngNgoai.mp4'
+                },
+                {
+                    name: 'Tiếng đàn',
+                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/TiengDan.mp4'
+                },
+                {
+                    name: 'Chơi bóng rổ với bố',
+                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/ChoiBongRoVoiBo.mp4'
+                },
+                {
+                    name: 'Độc đáo lễ hội đèn trung thu',
+                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/DocDaoLeHoiDenTrungThu.mp4'
                 }
             ],
             clipslider: `https://thnhonnghia1.hn.ss.bfcplatform.vn/clipslider.mp4`, ImgAbout
