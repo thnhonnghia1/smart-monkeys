@@ -139,9 +139,9 @@ img {
 }
 .left_about a img{width: 100%;display: block;height: 100%;object-fit: cover;}
 .right_about{
-    padding: 20px 40px;
+    padding: 20px 30px;
     padding-left: calc(50% - 600px);
-    width: 50%;
+    width: 52%;
 }
 .gt{
     font-size: 30px;
