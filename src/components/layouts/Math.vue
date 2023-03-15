@@ -6,7 +6,7 @@
                 <video class="imagevideoVn" data-video-slider="" controls playsinline webkit-playsinline preload="metadata">
                     <source type="video/mp4" :src="videoToan.linkmp4">
                 </video>
-                <div class="name-videoVn">{{videoToan.name}}</div>
+                <div class="name-videoVn">{{ videoToan.name }}</div>
                 <p class="link-videoVn">
                     <a class="" :href="videoToan.linktest" target="_blank"><span> Trắc nghiệm</span></a>
                     <a class="" :href="videoToan.linkhopthu" target="_blank"><span> Hộp thư</span></a>
@@ -20,8 +20,8 @@
 
 export default {
     data() {
-        return { 
-            videoToan : [
+        return {
+            videoToan: [
                 {
                     name: "Tuần 01. Kiến thức cần nhớ",
                     linkmp4: `https://thnhonnghia1.hn.ss.bfcplatform.vn/toan/TOANTUAN1.mp4`,
@@ -233,7 +233,7 @@ export default {
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 }
             ]
-         }
+        }
     }
 }
 </script>
