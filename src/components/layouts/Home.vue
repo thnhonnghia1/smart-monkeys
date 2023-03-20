@@ -39,7 +39,7 @@
     <div class="wrap-Vietnamses">
         <div class="wap_1200 w-clear">
             <div class="tdtc">Rèn đọc</div>
-            <Splide class="run-readVn" :options="{ rewind: true, perPage: 2, arrows: false }" aria-label="Rèn đọc">
+            <Splide class="run-readVn" :options="{ rewind: true, perPage: 2, autoplay: true, type: 'loop', direction: 'rtl', interval: 3000, pauseOnHover: true }" aria-label="Rèn đọc">
                 <SplideSlide class="readVn" v-for="(readVn, index) in readVn" :key="index">
                     <div class="box-readVn"> 
                         <video class="imagevideoVn" data-video-slider="" controls playsinline webkit-playsinline preload="metadata">
@@ -78,7 +78,7 @@
     <div class="box_video" id="sroll-video" data-wow-delay="1000ms">
         <div class="wap_1200 w-clear">
             <div class="tdtc">Video</div>
-            <Splide :options="{ rewind: true, perPage: 3, autoplay: true, type: 'loop', direction: 'rtl', interval: 7000, pauseOnHover: true }"
+            <Splide :options="{ rewind: true, perPage: 3, autoplay: true, type: 'loop', direction: 'rtl', interval: 3000, pauseOnHover: true }"
                 aria-label="Video">
                 <SplideSlide v-for="(video, index) in video" :key="index">
                     <a class="video text-decoration-none" data-fancybox="video" :key="index" :data-src="video.youtubeLink"
