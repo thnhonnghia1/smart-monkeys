@@ -62,6 +62,54 @@ img {
     color: #009900;
     text-shadow: 3px 0 0 #ffd11a, -3px 0 0 #ffd11a, 0 3px 0 #ffd11a, 0 -3px 0 #ffd11a, 3px 2px #ffd11a, -2px -2px 0 #ffd11a, 3px -2px 0 #ffd11a, -2px 2px 0 #ffd11a;
     filter: drop-shadow(2px 2px 0px #cc0000);
+    -webkit-animation-name:fadeInLeft;-webkit-animation-duration:1.5s;-webkit-animation-timing-function:linear;-webkit-animation-iteration-count:infinite;-moz-animation-name:fadeInLeft;-moz-animation-duration:1.5s;-moz-animation-timing-function:linear;-moz-animation-iteration-count:infinite;animation-name:fadeInLeft;animation-duration:1.5s;animation-timing-function:linear;animation-iteration-count:infinite;
+}
+@-webkit-keyframes fadeInLeft {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateX(-20px);
+	}
+	
+	100% {
+		opacity: 1;
+		-webkit-transform: translateX(0);
+	}
+}
+
+@-moz-keyframes fadeInLeft {
+	0% {
+		opacity: 0;
+		-moz-transform: translateX(-20px);
+	}
+	
+	100% {
+		opacity: 1;
+		-moz-transform: translateX(0);
+	}
+}
+
+@-o-keyframes fadeInLeft {
+	0% {
+		opacity: 0;
+		-o-transform: translateX(-20px);
+	}
+	
+	100% {
+		opacity: 1;
+		-o-transform: translateX(0);
+	}
+}
+
+@keyframes fadeInLeft {
+	0% {
+		opacity: 0;
+		transform: translateX(-20px);
+	}
+	
+	100% {
+		opacity: 1;
+		transform: translateX(0);
+	}
 }
 .adress-shool{
     font-size: 15px;

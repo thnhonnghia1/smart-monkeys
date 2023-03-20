@@ -3,7 +3,7 @@
     <div class="header-top">
       <div class="wap_1200 d-flex align-items-center justify-content-between">
         <div class="left-header">
-          <div class="name-shool">Trường Tiểu Học Nhơn Nghĩa A1</div>
+          <div class="name-shool"> Trường Tiểu Học Nhơn Nghĩa A1</div>
           <div class="adress-shool">Địa chỉ: Ấp Nhơn Nhuận 1B, xã Nhơn Nghĩa A, huyện Châu Thành A, tỉnh Hậu Giang</div>
         </div>
         <div class="hotline-top">
