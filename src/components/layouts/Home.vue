@@ -176,28 +176,96 @@ export default {
             ],
             video: [
                 {
-                    youtubeLink: "https://www.youtube.com/watch?v=OLGHPLxeBxg",
-                    vimeoLink: "https://img.youtube.com/vi/OLGHPLxeBxg/0.jpg",
+                    youtubeLink: "https://www.youtube.com/watch?v=qcdOqAI93js",
+                    vimeoLink: "https://img.youtube.com/vi/qcdOqAI93js/0.jpg",
                 },
                 {
-                    youtubeLink: "https://www.youtube.com/watch?v=_ObJsM_VeVw",
-                    vimeoLink: "https://img.youtube.com/vi/_ObJsM_VeVw/0.jpg",
+                    youtubeLink: "https://www.youtube.com/watch?v=NMcky_CfBsg",
+                    vimeoLink: "https://img.youtube.com/vi/NMcky_CfBsg/0.jpg",
                 },
                 {
-                    youtubeLink: "https://www.youtube.com/watch?v=jHs5TqBjw2o",
-                    vimeoLink: "https://img.youtube.com/vi/jHs5TqBjw2o/0.jpg",
+                    youtubeLink: "https://www.youtube.com/watch?v=phEZY1qKRXo",
+                    vimeoLink: "https://img.youtube.com/vi/phEZY1qKRXo/0.jpg",
                 },
                 {
-                    youtubeLink: "https://www.youtube.com/watch?v=GWTtrNDzBc0",
-                    vimeoLink: "https://img.youtube.com/vi/GWTtrNDzBc0/0.jpg",
+                    youtubeLink: "https://www.youtube.com/watch?v=NpyM-PGhn5E",
+                    vimeoLink: "https://img.youtube.com/vi/NpyM-PGhn5E/0.jpg",
                 },
                 {
-                    youtubeLink: "https://www.youtube.com/watch?v=W5DAlCswHNU",
-                    vimeoLink: "https://img.youtube.com/vi/W5DAlCswHNU/0.jpg",
+                    youtubeLink: "https://www.youtube.com/watch?v=YXJ-RkVEtW4",
+                    vimeoLink: "https://img.youtube.com/vi/YXJ-RkVEtW4/0.jpg",
                 },
                 {
-                    youtubeLink: "https://www.youtube.com/watch?v=ovb0cJO7eM4",
-                    vimeoLink: "https://img.youtube.com/vi/ovb0cJO7eM4/0.jpg",
+                    youtubeLink: "https://www.youtube.com/watch?v=ByCBqlZK_-o",
+                    vimeoLink: "https://img.youtube.com/vi/ByCBqlZK_-o/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=saz5JriZGdk",
+                    vimeoLink: "https://img.youtube.com/vi/saz5JriZGdk/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=7Fh6Vm0fhJc",
+                    vimeoLink: "https://img.youtube.com/vi/7Fh6Vm0fhJc/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=WwoMmayXjAA",
+                    vimeoLink: "https://img.youtube.com/vi/WwoMmayXjAA/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=KJPi4IcEXcQ",
+                    vimeoLink: "https://img.youtube.com/vi/KJPi4IcEXcQ/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=Yp-CvdJDclE",
+                    vimeoLink: "https://img.youtube.com/vi/Yp-CvdJDclE/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=-1A5YdenmR4",
+                    vimeoLink: "https://img.youtube.com/vi/-1A5YdenmR4/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=DTHxxyDkrcs",
+                    vimeoLink: "https://img.youtube.com/vi/DTHxxyDkrcs/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=gLoAd4EU66A",
+                    vimeoLink: "https://img.youtube.com/vi/gLoAd4EU66A/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=4Vij7gooinU",
+                    vimeoLink: "https://img.youtube.com/vi/4Vij7gooinU/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=iZg48pi336c",
+                    vimeoLink: "https://img.youtube.com/vi/iZg48pi336c/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=uj2s13Z1D00",
+                    vimeoLink: "https://img.youtube.com/vi/uj2s13Z1D00/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=3w5NJwbd_C8",
+                    vimeoLink: "https://img.youtube.com/vi/3w5NJwbd_C8/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=Z9nw0th4EpY",
+                    vimeoLink: "https://img.youtube.com/vi/Z9nw0th4EpY/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=Yy5RMWYGWqM",
+                    vimeoLink: "https://img.youtube.com/vi/Yy5RMWYGWqM/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=kE-osJB2ee8",
+                    vimeoLink: "https://img.youtube.com/vi/kE-osJB2ee8/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=eixrkc9YI28",
+                    vimeoLink: "https://img.youtube.com/vi/eixrkc9YI28/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=EvmFoh26dio",
+                    vimeoLink: "https://img.youtube.com/vi/EvmFoh26dio/0.jpg",
                 }
             ],
             readVn: [

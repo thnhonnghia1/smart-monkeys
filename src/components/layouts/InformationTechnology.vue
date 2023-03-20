@@ -24,7 +24,7 @@ export default {
                 {
                     name: "Tuần 01. Kiến thức cần nhớ",
                     linkmp4: `https://thnhonnghia1.hn.ss.bfcplatform.vn/tin-hoc/chudeA_bai1.mp4`,
-                    linktest: "https://forms.gle/gucLCGA8Vpi1SkwH6",
+                    linktest: "https://forms.gle/2WdrJd6W5KQwdkR26",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 }
             ]
