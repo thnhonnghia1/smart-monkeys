@@ -62,13 +62,3 @@ $(window).scroll(function () {
 $('#toptop').click(function () {
     $('html, body').animate({ scrollTop: 0 }, 500);
 });
-
-$('.name-shool').textillate({
-    in: {
-        effect: 'bounceIn'
-    },
-    out: {
-        effect: 'bounceOut'
-    },
-    loop: true
-});
