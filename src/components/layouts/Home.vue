@@ -271,34 +271,34 @@ export default {
             readVn: [
                 {
                     name: 'Ngày em vào đội',
-                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/NgayEmVaoDoi.mp4'
+                    linkread: 'https://st.thnhonnghia1.xyz/ren-doc/NgayEmVaoDoi.mp4'
                 },
                 {
                     name: 'Cuốn sách em yêu',
-                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/CuonSachEmYeu.mp4'
+                    linkread: 'https://st.thnhonnghia1.xyz/ren-doc/CuonSachEmYeu.mp4'
                 },
                 {
                     name: 'Nghệ nhan bát tràng',
-                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/NgheNhanBatTrang.mp4'
+                    linkread: 'https://st.thnhonnghia1.xyz/ren-doc/NgheNhanBatTrang.mp4'
                 },
                 {
                     name: 'Ông Ngoại',
-                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/OngNgoai.mp4'
+                    linkread: 'https://st.thnhonnghia1.xyz/ren-doc/OngNgoai.mp4'
                 },
                 {
                     name: 'Tiếng đàn',
-                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/TiengDan.mp4'
+                    linkread: 'https://st.thnhonnghia1.xyz/ren-doc/TiengDan.mp4'
                 },
                 {
                     name: 'Chơi bóng rổ với bố',
-                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/ChoiBongRoVoiBo.mp4'
+                    linkread: 'https://st.thnhonnghia1.xyz/ren-doc/ChoiBongRoVoiBo.mp4'
                 },
                 {
                     name: 'Độc đáo lễ hội đèn trung thu',
-                    linkread: 'https://thnhonnghia1.hn.ss.bfcplatform.vn/ren-doc/DocDaoLeHoiDenTrungThu.mp4'
+                    linkread: 'https://st.thnhonnghia1.xyz/ren-doc/DocDaoLeHoiDenTrungThu.mp4'
                 }
             ],
-            clipslider: `https://thnhonnghia1.hn.ss.bfcplatform.vn/clipslider.mp4`, ImgAbout
+            clipslider: `https://st.thnhonnghia1.xyz/clipslider.mp4`, ImgAbout
         }
     },
 };
