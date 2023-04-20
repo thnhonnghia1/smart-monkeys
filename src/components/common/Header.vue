@@ -27,7 +27,7 @@
     <span class="close_menu" @click="closeMenu">X</span>
     <ul>
       <li v-for="(router, index) in routes.filter(i => i.isLoad)" :key="index">
-        <router-link :key="router.path" :to="router.path">
+        <router-link @click="closeMenu" :key="router.path" :to="router.path">
           {{ router.name }}
         </router-link>
       </li>
