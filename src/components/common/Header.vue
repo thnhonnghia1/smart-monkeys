@@ -23,13 +23,49 @@
       </ul>
     </div>
   </div>
+  <div :class="{ 'menu_mobi_active': menuMobiActive, 'menu_mobi_add': true }">
+    <span class="close_menu" @click="closeMenu">X</span>
+    <ul>
+      <li v-for="(router, index) in routes.filter(i => i.isLoad)" :key="index">
+        <router-link :key="router.path" :to="router.path">
+          {{ router.name }}
+        </router-link>
+      </li>
+    </ul>
+  </div>
+  <div class="menu_mobi w-clear">
+    <p class="menu_baophu"
+      :style="{ display: showElement ? '' : 'none', opacity: isShown ? 1 : 0, transition: 'opacity 0.5s' }"
+      @click="closeMenu"></p>
+    <p class="icon_menu_mobi" @click="showMenu"><i class="fas fa-bars"></i></p>
+    <a href="/#/smart-monkeys" class="home_mobi"><i class="fa fa-home" aria-hidden="true"></i></a>
+  </div>
 </template>
 
 <script>
 export default {
   data() {
     return {
-      routes: this.$router.options.routes
+      routes: this.$router.options.routes,
+      menuMobiActive: false,
+      showElement: false,
+      isShown: false,
+    }
+  },
+  methods: {
+    showMenu() {
+      this.isShown = true;
+      setTimeout(() => {
+        this.menuMobiActive = true;
+        this.showElement = true;
+      }, 200);
+    },
+    closeMenu() {
+      this.menuMobiActive = false;
+      this.showElement = false;
+      setTimeout(() => {
+        this.isShown = false;
+      }, 500);
     }
   }
 }

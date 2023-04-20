@@ -565,7 +565,7 @@ img {
 .hidden_destop{display: block;}
 .menu_baophu { background: #000; opacity: 0.8;
     z-index: 998; left: 0px; top: 0px;
-    position: fixed; width: 100%; height: 100%; display: none; }
+    position: fixed; width: 100%; height: 100%;margin: 0; }
 .icon_menu_mobi{
     color: #fff;
     font-size: 25px;
@@ -577,6 +577,7 @@ img {
     cursor:pointer;
     float: left;
     margin: 0;
+    height: 40px;
 }
 .icon_menu_mobi i {float: left;margin-top: 8px;}
 a.home_mobi {color: #fff;text-decoration:none;float:right;font-size: 20px;margin-top: 4px;}
@@ -634,7 +635,7 @@ a.phone_mobi i{ margin-right: 12px; -webkit-animation: my 700ms infinite;
     transition: 0.5s;
     }
 .menu_mobi_active { left: 0; transition: 0.5s; }
-.menu_mobi_add ul {list-style: none;padding: 0;}
+.menu_mobi_add ul {list-style: none;padding: 0;display: block;}
 .menu_mobi_add ul li.li-tim{display:none}
 .menu_mobi_add ul li h2{font-size: 15px;}
 .menu_mobi_add ul li b{display:inline-block;vertical-align: top;margin-right: 8px;}
@@ -671,7 +672,7 @@ a.phone_mobi i{ margin-right: 12px; -webkit-animation: my 700ms infinite;
     line-height: 25px;
     cursor: pointer;
 }
-.name-shool{font-size: 30px;}
+.name-shool{font-size: 30px;text-align: center;}
 .box_about{padding: 20px 10px;}
 .box_ab{flex-wrap: wrap;}
 .left_about{width: 100%;display: none;}
@@ -692,7 +693,14 @@ a.phone_mobi i{ margin-right: 12px; -webkit-animation: my 700ms infinite;
 .chay-vd{margin: 0;overflow: hidden;}
 
 }
-
+.left-header{width: 100%;text-align: center;}
+.header-top .wap_1200{flex-wrap: wrap;}
+.hotline-top{width: 100%;display: none;}
+.video-background .video-fullscreen{height: 300px;object-fit: cover;}
+.videoVn, .album, .subject{width: calc(50% - 10px);margin: 10px 5px;}
+.name-videoVn{font-size: 16px;}
+.pic-team{padding: 0 20px 4px;margin: 0 5px;}
+.pic-team:after{}
 .shake {
     animation: shake 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
     transform: translate3d(0, 0, 0);
