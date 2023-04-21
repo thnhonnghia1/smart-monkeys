@@ -555,7 +555,7 @@ img {
 #toptop i{margin-left:-1px; margin-top:-1px;}
 
 /* Responsive */
-@media(max-width:1001px){
+@media(max-width:800px){
 	.menu{display:none;}
 	.menu-res{display:block;}
 
