@@ -558,9 +558,7 @@ img {
 @media(max-width:800px){
 	.menu{display:none;}
 	.menu-res{display:block;}
-
 /*  -- menu mobile ---*/
-	
 .hidden_mobi{display: none;}
 .hidden_destop{display: block;}
 .menu_baophu { background: #000; opacity: 0.8;
@@ -691,8 +689,6 @@ a.phone_mobi i{ margin-right: 12px; -webkit-animation: my 700ms infinite;
 .box_video{padding: 20px 5px;position: relative;}
 .video{margin: 0 5px;}
 .chay-vd{margin: 0;overflow: hidden;}
-
-}
 .left-header{width: 100%;text-align: center;}
 .header-top .wap_1200{flex-wrap: wrap;}
 .hotline-top{width: 100%;display: none;}
@@ -700,7 +696,9 @@ a.phone_mobi i{ margin-right: 12px; -webkit-animation: my 700ms infinite;
 .videoVn, .album, .subject{width: calc(50% - 10px);margin: 10px 5px;}
 .name-videoVn{font-size: 16px;}
 .pic-team{padding: 0 20px 4px;margin: 0 5px;}
-.pic-team:after{}
+
+}
+
 .shake {
     animation: shake 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
     transform: translate3d(0, 0, 0);
