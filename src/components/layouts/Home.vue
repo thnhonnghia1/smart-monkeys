@@ -67,12 +67,12 @@
     <div class="wrap-team">
         <div class="wap_1200 w-clear">
             <div class="tdtc">Đội ngũ giáo viên</div>
-            <Splide class="run-team" :options="{ rewind: true, perPage: 3, arrows: false }" aria-label="Đội ngũ giáo viên">
-                <SplideSlide class="team" v-for="(team, index) in team" :key="index">
+            <div class="run-team"  aria-label="Đội ngũ giáo viên">
+                <div class="team" v-for="(team, index) in team" :key="index">
                     <p class="pic-team"><img :src="team.image" alt=""></p>
                     <h3 class="name-team">{{ team.name }}</h3>
-                </SplideSlide>
-            </Splide>
+                </div>
+            </div>
         </div>
     </div>
     <div class="box_video" id="sroll-video" data-wow-delay="1000ms">
@@ -107,8 +107,6 @@ import albumIndex4 from '../../../images/7047263907c0cf9e96d162.jpg';
 import albumIndex5 from '../../../images/b2dfc8ade954210a784561.jpg';
 import albumIndex6 from '../../../images/677abd3b9cc2549c0dd359.jpg';
 import teamIndex from '../../../images/doingu/CoNuong.jpg';
-import teamIndex2 from '../../../images/doingu/coTin.jpg';
-import teamIndex3 from '../../../images/doingu/CoLoc.jpg';
 import subjectIndex from '../../../images/biaSach/BiaTiengViet.png';
 import subjectIndex2 from '../../../images/biaSach/BiaToan.jpg';
 import subjectIndex3 from '../../../images/biaSach/BiaTin.png';
@@ -129,16 +127,6 @@ export default {
                     path: '/smart-monkeys/toan-hoc',
                     image: subjectIndex2
                 },
-                {
-                    name: 'Tiếng Anh',
-                    path: '/smart-monkeys/tieng-anh',
-                    image: subjectIndex4
-                },
-                {
-                    name: 'Tin học',
-                    path: '/smart-monkeys/tin-hoc',
-                    image: subjectIndex3
-                }
             ],
             album: [
                 {
@@ -163,15 +151,7 @@ export default {
             team: [
                 {
                     name: 'Cô giáo nương',
-                    image: teamIndex
-                },
-                {
-                    name: 'Cô giáo Hạnh',
-                    image: teamIndex2
-                },
-                {
-                    name: 'Cô giáo Lộc',
-                    image: teamIndex3
+                    image: teamIndex,
                 }
             ],
             video: [
