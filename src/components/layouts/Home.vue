@@ -66,7 +66,7 @@
     </div>
     <div class="wrap-team">
         <div class="wap_1200 w-clear">
-            <div class="tdtc">Đội ngũ giáo viên</div>
+            <div class="tdtc">Giáo viên</div>
             <div class="run-team"  aria-label="Đội ngũ giáo viên">
                 <div class="team" v-for="(team, index) in team" :key="index">
                     <p class="pic-team"><img :src="team.image" alt=""></p>
