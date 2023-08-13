@@ -67,7 +67,7 @@ export default {
                 {
                     name: "Tuần 8. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN8.mp4",
-                    linktest: "https://docs.google.com/forms/d/1pIdI_KormyNJGezd4ycbAJVIiLTAgr7k2PsLcRzROV8/edit",
+                    linktest: "https://docs.google.com/forms/d/1L5Ug5MkQMBA5mmabo2J2DQ-BwR9c9kpJlGPjYiU2AGI/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
@@ -79,13 +79,13 @@ export default {
                 {
                     name: "Tuần 10. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN10.mp4",
-                    linktest: "https://docs.google.com/forms/d/1gSb8UjrfBnv4ivSG_2UnMtEdVp6P1VzGwJUVz7o_Y0o/edit",
+                    linktest: "https://docs.google.com/forms/d/1L5Ug5MkQMBA5mmabo2J2DQ-BwR9c9kpJlGPjYiU2AGI/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 11. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN11.mp4",
-                    linktest: "https://docs.google.com/forms/d/1gSb8UjrfBnv4ivSG_2UnMtEdVp6P1VzGwJUVz7o_Y0o/edit",
+                    linktest: "https://docs.google.com/forms/d/1L5Ug5MkQMBA5mmabo2J2DQ-BwR9c9kpJlGPjYiU2AGI/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
@@ -103,13 +103,13 @@ export default {
                 {
                     name: "Tuần 14. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN14.mp4",
-                    linktest: " https://docs.google.com/forms/d/1-w2MJQVpbuowaBqTk9N7P8-k6El79uDZW0Dx37ksM_4/edit",
+                    linktest: " https://docs.google.com/forms/d/1KEPWpyr5ySXztc0tnWIi2QLwf3AE2MDzZJrjOIMl7L8/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 15. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN15.mp4",
-                    linktest: " https://docs.google.com/forms/d/1-w2MJQVpbuowaBqTk9N7P8-k6El79uDZW0Dx37ksM_4/edit",
+                    linktest: " https://docs.google.com/forms/d/1XGVsfwo5Hrd55tE46bJgcxFlGgy8M7mkJytdTvTK-3k/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
@@ -121,7 +121,7 @@ export default {
                 {
                     name: "Tuần 17. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN17.mp4",
-                    linktest: "https://docs.google.com/forms/d/19JOAoOCHbwDN86SHUe0snPYzFc4qlWPiggoyMCdR89s/edit",
+                    linktest: "https://docs.google.com/forms/d/1WzJlDsUqw4J8gKxMpkSQgapraB4Jte9NIodCLNlDKa8/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
@@ -157,55 +157,55 @@ export default {
                 {
                     name: "Tuần 23. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN23.mp4",
-                    linktest: "https://docs.google.com/forms/d/1qVuAHCuYrEPhsSearo7mw2c5iM9SnClpu8DFCTo_r7o/edit",
+                    linktest: "https://docs.google.com/forms/d/172-wmlwIwoZ_UwRxfGZUVxHGFXHmchDI3exH6H0MfHE/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 24. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN24.mp4",
-                    linktest: "https://forms.gle/S4be9bWQCkuvnV9h9",
+                    linktest: "https://docs.google.com/forms/d/1w1jY2zC6pjZLhVZSHOHTV0z6E5PGSU9ToXDZFmaydBM/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 25. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN25.mp4",
-                    linktest: "https://docs.google.com/forms/d/1qVuAHCuYrEPhsSearo7mw2c5iM9SnClpu8DFCTo_r7o/edit",
+                    linktest: "https://docs.google.com/forms/d/1xQwYVJjrEJ_Na2VXd5FnAA2VoWPdBB2hj9Zu382elkg/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 26. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN26.mp4",
-                    linktest: "https://docs.google.com/forms/d/1qVuAHCuYrEPhsSearo7mw2c5iM9SnClpu8DFCTo_r7o/edit",
+                    linktest: "https://docs.google.com/forms/d/13gS4fqOgw4M3nkxh_LO0sGvtjpURc9KYWfnrC7vTLSk/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 27. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN27.mp4",
-                    linktest: "https://docs.google.com/forms/d/1qVuAHCuYrEPhsSearo7mw2c5iM9SnClpu8DFCTo_r7o/edit",
+                    linktest: "https://docs.google.com/forms/d/1EH7NRHtn30QvWvnOJEcIwFIt0g1O9aAl5ewzBTJipk8/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 28. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN28.mp4",
-                    linktest: "https://docs.google.com/forms/d/1xB-6SspEZL_jTxNQD-cen5cOEYaXJOlCug1va8NFkIA/edit",
+                    linktest: "https://docs.google.com/forms/d/1qXwghCICG25JDsXebdlCHL0ruIwaao1UB9-E0M6QKq0/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 29. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN29.mp4",
-                    linktest: "https://docs.google.com/forms/d/1xB-6SspEZL_jTxNQD-cen5cOEYaXJOlCug1va8NFkIA/edit",
+                    linktest: "https://docs.google.com/forms/d/1v69reycfotHlutJNY4SCMGYbX-A71sg0KDwOkpe0MHc/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 30. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN30.mp4",
-                    linktest: "https://docs.google.com/forms/d/1xB-6SspEZL_jTxNQD-cen5cOEYaXJOlCug1va8NFkIA/edit",
+                    linktest: "https://docs.google.com/forms/d/1MoyJyt8zv8M94Wy1W7KlhPq-bFxhgcVDGar3vdjfrVA/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 31. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN31.mp4",
-                    linktest: "https://docs.google.com/forms/d/1xB-6SspEZL_jTxNQD-cen5cOEYaXJOlCug1va8NFkIA/edit",
+                    linktest: "https://docs.google.com/forms/d/1k1O7tQ30seW7E8cYWi7zQObbGZsCXSEc7xViJdh0Jfs/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
@@ -217,19 +217,19 @@ export default {
                 {
                     name: "Tuần 33. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN33.mp4",
-                    linktest: "https://docs.google.com/forms/d/1GgNWrlRezEKT6LDX-dLDVbb23xJdeOdcxrECn4FQXfQ/edit",
+                    linktest: "https://docs.google.com/forms/d/1k1O7tQ30seW7E8cYWi7zQObbGZsCXSEc7xViJdh0Jfs/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 34. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN34.mp4",
-                    linktest: "https://forms.gle/S4be9bWQCkuvnV9h9",
+                    linktest: "https://docs.google.com/forms/d/1JxrzDVfPN-BvxJP9ZNbQH_N9ZdpICp9_Ri-uDQLpOWw/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
                     name: "Tuần 35. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN35.mp4",
-                    linktest: "https://forms.gle/S4be9bWQCkuvnV9h9",
+                    linktest: "https://docs.google.com/forms/d/1G9Rd-L45GzXrlZ4emzUw1vQKxSy-_EkN3wq2ad9rJNI/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 }
             ]
