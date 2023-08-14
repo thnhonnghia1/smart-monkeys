@@ -109,7 +109,7 @@ export default {
                 {
                     name: "Tuần 15. Kiến thức cần nhớ",
                     linkmp4: "https://st.thnhonnghia1.xyz/tieng-viet/TIENGVIETTUAN15.mp4",
-                    linktest: "https://docs.google.com/forms/d/e/1FAIpQLSeJEn1FztQmspzc12maqlYvKnO4HefW2Ns__c1J7lzS9abcRg/viewform?usp=sf_link",
+                    linktest: "https://docs.google.com/forms/d/1rsaPfCvkyp8zN99_nXCZ27NO1UOn2-vNLb8epWnsesE/edit",
                     linkhopthu: "https://docs.google.com/forms/d/1DhqkWrJQKw_8Of5X3GG37ue19w-ASRlIh2atl9oNeGM/viewform?edit_requested=true#responses",
                 },
                 {
