@@ -90,6 +90,22 @@
             </Splide>
         </div>
     </div>
+    
+    <div class="box_video" id="sroll-video" data-wow-delay="1000ms">
+        <div class="wap_1200 w-clear">
+            <div class="tdtc">Giải trí</div>
+            <Splide :options="{ rewind: true, perPage: 3, autoplay: true, type: 'loop', direction: 'rtl', interval: 3000, pauseOnHover: true }"
+                aria-label="Video">
+                <SplideSlide v-for="(video, index) in giaitri" :key="index">
+                    <a class="video text-decoration-none" data-fancybox="video" :key="index" :data-src="video.youtubeLink"
+                        title="">
+                        <p class="pic-video scale-img"><img onerror="this.src='<?=$thumb?>assets/images/noimage.png';"
+                                :src="video.vimeoLink" alt="" /></p>
+                    </a>
+                </SplideSlide>
+            </Splide>
+        </div>
+    </div>
 </template>
 
 <style>
@@ -248,6 +264,32 @@ export default {
                     vimeoLink: "https://img.youtube.com/vi/EvmFoh26dio/0.jpg",
                 }
             ],
+            giaitri: [
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=HZURqv7ByMA",
+                    vimeoLink: "https://img.youtube.com/vi/HZURqv7ByMA/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=bvoDz6UFeXY",
+                    vimeoLink: "https://img.youtube.com/vi/bvoDz6UFeXY/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=LXDIYWeCsOw",
+                    vimeoLink: "https://img.youtube.com/vi/LXDIYWeCsOw/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=s1ORdKmTblA",
+                    vimeoLink: "https://img.youtube.com/vi/s1ORdKmTblA/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=gLVGcjCzycM",
+                    vimeoLink: "https://img.youtube.com/vi/gLVGcjCzycM/0.jpg",
+                },
+                {
+                    youtubeLink: "https://www.youtube.com/watch?v=ik2vtgwTwgc",
+                    vimeoLink: "https://img.youtube.com/vi/ik2vtgwTwgc/0.jpg",
+                }
+            ],
             readVn: [
                 {
                     name: 'Ngày em vào đội',
@@ -278,7 +320,7 @@ export default {
                     linkread: 'https://st.thnhonnghia1.xyz/ren-doc/DocDaoLeHoiDenTrungThu.mp4'
                 }
             ],
-            clipslider: `https://st.thnhonnghia1.xyz/clipslider.mp4`, ImgAbout
+            clipslider: `https://st.thnhonnghia1.xyz.hn.ss.bfcplatform.vn/clipslider.mp4`, ImgAbout
         }
     },
 };
