@@ -94,6 +94,17 @@
             </Splide>
         </div>
     </div>
+    <div class="box-videomp4Index">
+        <div class="wap_1200 w-clear">
+            <a class="videomp4" v-for="(videongan, index) in videongan" :key="index">
+                <div class="box-videomp4"> 
+                    <video class="imagevideomp4" data-video-slider="" controls playsinline webkit-playsinline preload="metadata">
+                    <source type="video/mp4" :src="videongan.linkread">
+                    </video>
+                </div>
+            </a>
+        </div>
+    </div>
     <div class="wrap-team">
         <div class="wap_1200 w-clear">
             <div class="tdtc">Giáo viên</div>
@@ -317,6 +328,14 @@ export default {
                 {
                     name: 'Độc đáo lễ hội đèn trung thu',
                     linkread: 'https://st.thnhonnghia1.xyz/ren-doc/DocDaoLeHoiDenTrungThu.mp4'
+                }
+            ],
+            videongan: [
+                {
+                    linkread: 'https://st.thnhonnghia1.xyz.hn.ss.bfcplatform.vn/6787654949723102834.mp4'
+                },
+                {
+                    linkread: 'https://st.thnhonnghia1.xyz.hn.ss.bfcplatform.vn/8419848618323621670.mp4'
                 }
             ],
             clipslider: `https://st.thnhonnghia1.xyz.hn.ss.bfcplatform.vn/clipslider.mp4`, ImgAbout

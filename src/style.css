@@ -550,6 +550,16 @@ img {
 @-o-keyframes my {   0% {opacity:1}   50% {opacity:0  }   100% {opacity:1  }   }
 @keyframes my {  0% {opacity:1}   50% {opacity:0  }   100% {opacity:1  }  }
 
+.box-videomp4Index{}
+.box-videomp4Index .wap_1200{display: flex;flex-wrap: wrap;}
+.videomp4{
+    position: relative;
+    width: calc(50% - 20px);
+    margin: 10px 10px;
+    display: block;
+}
+.imagevideomp4{height: 300px;object-fit: cover;width: 100%;}
+
 /* Scroll Top */
 #toptop {width: 45px;height: 45px;line-height: 45px;text-align: center;position: fixed;bottom: 20px;right: 10px;cursor: pointer;background: white;transition:0.5s;z-index:200;border-radius: 50%;color: #fff;transform: rotate(-90deg);font-size: 47px;color: #df001f;}
 #toptop i{margin-left:-1px; margin-top:-1px;}
