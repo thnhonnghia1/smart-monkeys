@@ -64,20 +64,9 @@
             </div>
         </div>
     </div>
-    <div class="wrap-team">
-        <div class="wap_1200 w-clear">
-            <div class="tdtc">Giáo viên</div>
-            <div class="run-team"  aria-label="Đội ngũ giáo viên">
-                <div class="team" v-for="(team, index) in team" :key="index">
-                    <p class="pic-team"><img :src="team.image" alt=""></p>
-                    <h3 class="name-team">{{ team.name }}</h3>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="box_video" id="sroll-video" data-wow-delay="1000ms">
         <div class="wap_1200 w-clear">
-            <div class="tdtc">Video</div>
+            <div class="tdtc">Rèn Toán</div>
             <Splide :options="{ rewind: true, perPage: 3, autoplay: true, type: 'loop', direction: 'rtl', interval: 3000, pauseOnHover: true }"
                 aria-label="Video">
                 <SplideSlide v-for="(video, index) in video" :key="index">
@@ -90,7 +79,6 @@
             </Splide>
         </div>
     </div>
-    
     <div class="box_video" id="sroll-video" data-wow-delay="1000ms">
         <div class="wap_1200 w-clear">
             <div class="tdtc">Giải trí</div>
@@ -104,6 +92,17 @@
                     </a>
                 </SplideSlide>
             </Splide>
+        </div>
+    </div>
+    <div class="wrap-team">
+        <div class="wap_1200 w-clear">
+            <div class="tdtc">Giáo viên</div>
+            <div class="run-team"  aria-label="Đội ngũ giáo viên">
+                <div class="team" v-for="(team, index) in team" :key="index">
+                    <p class="pic-team"><img :src="team.image" alt=""></p>
+                    <h3 class="name-team">{{ team.name }}</h3>
+                </div>
+            </div>
         </div>
     </div>
 </template>
