@@ -332,10 +332,10 @@ export default {
             ],
             videongan: [
                 {
-                    linkread: 'https://st.thnhonnghia1.xyz/6787654949723102834.mp4'
+                    linkread: 'https://mbo-dev.hn.ss.bfcplatform.vn/6787654949723102834.mp4'
                 },
                 {
-                    linkread: 'https://st.thnhonnghia1.xyz/8419848618323621670.mp4'
+                    linkread: 'https://mbo-dev.hn.ss.bfcplatform.vn/8419848618323621670.mp4'
                 }
             ],
             clipslider: `https://st.thnhonnghia1.xyz/clipslider.mp4`, ImgAbout
