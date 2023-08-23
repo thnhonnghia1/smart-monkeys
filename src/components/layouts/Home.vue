@@ -51,19 +51,6 @@
             </Splide>
         </div>
     </div>
-    <div class="box_hoatdong" data-wow-delay="1000ms">
-        <div class="wap_1200 w-clear">
-            <div class="tdtc">Khoảnh Khắc Yêu thương</div>
-            <div id="lightgallery" class="box_albumhd">
-                <a v-for="(album, index) in album" :key="index" class="album" :href="album.image">
-                    <p class="pic-album"><img :src="album.image" /></p>
-                    <div class="info-album">
-                        <i class="fas fa-search"></i>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="box_video" id="sroll-video" data-wow-delay="1000ms">
         <div class="wap_1200 w-clear">
             <div class="tdtc">Rèn Toán</div>
@@ -77,6 +64,19 @@
                     </a>
                 </SplideSlide>
             </Splide>
+        </div>
+    </div>
+    <div class="box_hoatdong" data-wow-delay="1000ms">
+        <div class="wap_1200 w-clear">
+            <div class="tdtc">Khoảnh Khắc Yêu thương</div>
+            <div id="lightgallery" class="box_albumhd">
+                <a v-for="(album, index) in album" :key="index" class="album" :href="album.image">
+                    <p class="pic-album"><img :src="album.image" /></p>
+                    <div class="info-album">
+                        <i class="fas fa-search"></i>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="box_video" id="sroll-video" data-wow-delay="1000ms">
@@ -332,13 +332,13 @@ export default {
             ],
             videongan: [
                 {
-                    linkread: 'https://st.thnhonnghia1.xyz.hn.ss.bfcplatform.vn/6787654949723102834.mp4'
+                    linkread: 'https://st.thnhonnghia1.xyz/6787654949723102834.mp4'
                 },
                 {
-                    linkread: 'https://st.thnhonnghia1.xyz.hn.ss.bfcplatform.vn/8419848618323621670.mp4'
+                    linkread: 'https://st.thnhonnghia1.xyz/8419848618323621670.mp4'
                 }
             ],
-            clipslider: `https://st.thnhonnghia1.xyz.hn.ss.bfcplatform.vn/clipslider.mp4`, ImgAbout
+            clipslider: `https://st.thnhonnghia1.xyz/clipslider.mp4`, ImgAbout
         }
     },
 };
